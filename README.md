@@ -1,2 +1,2 @@
 # POB
-Persistência de Objetos
+Disciplina Persistência de Objetos, do semestre 2023.2.
